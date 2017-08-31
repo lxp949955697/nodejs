@@ -1,5 +1,13 @@
 {
   "name": "application-name",
   "version": "0.0.1",
-  "main":"censortext"
+  "main":"censortext",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/lxp949955697/nodejs"
+  },
+  "keywords":[
+    "censor",
+    "words"
+  ]
 }
